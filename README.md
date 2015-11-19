@@ -9,7 +9,7 @@ The easy way to integrate mathematical expressions handwriting recognition in yo
 <html>
 <head>
     <script src="bower_components/webcomponentsjs/webcomponents-lite.js"></script>
-    <link rel="import" href="bower_components/myscript-math-web.html">
+    <link rel="import" href="bower_components/myscript-math-web/myscript-math-web.html">
 </head>
 <body>
     <myscript-math-web applicationkey="#PUT YOUR MYSCRIPT CDK APPLICATION KEY HERE#" 
