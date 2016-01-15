@@ -40,15 +40,15 @@ myscript-math-web is a web component that can be used in every web application (
 
 2. Import Web Components' polyfill
 
-    `html <script src="bower_components/webcomponentsjs/webcomponents-lite.js"></script>`
+    `<script src="bower_components/webcomponentsjs/webcomponents-lite.js"></script>`
 
 3. Import Custom Element
 
-    `html <link rel="import" href="bower_components/myscript-math-web.html">`
+    `<link rel="import" href="bower_components/myscript-math-web/myscript-math-web.html">`
 
 3. Use it
 
-    `html <myscript-math-web applicationkey="#PUT YOUR MYSCRIPT CDK APPLICATION KEY HERE#" hmackey="#PUT YOUR MYSCRIPT CDK HMAC KEY HERE#"></myscript-math-web>`
+    `<myscript-math-web applicationkey="#PUT YOUR MYSCRIPT CDK APPLICATION KEY HERE#" hmackey="#PUT YOUR MYSCRIPT CDK HMAC KEY HERE#"></myscript-math-web>`
 
 ## Documentation 
 
